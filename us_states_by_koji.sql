@@ -1,6 +1,6 @@
 CREATE DATABASE your_database_name;
 USE your_database_name;
-CREATE TABLE your_database_namestate_table (PrimaryKey VARCHAR(15), State VARCHAR(15), Capital VARCHAR(15), Abbrev VARCHAR(15)); 
+CREATE TABLE state_table (PrimaryKey VARCHAR(15), State VARCHAR(15), Capital VARCHAR(15), Abbrev VARCHAR(15)); 
 INSERT INTO state_table (PrimaryKey, State, Capital, Abbrev)
 VALUES
 	('1', 'Alabama', 'Montgomery', 'AL'),
