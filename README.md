@@ -4,3 +4,5 @@ If you are learning SQL with MariaDB and are trying to learn how to use a given 
 I have licensed this as an MIT license, i.e. an open source license.
 If you have any quetsions, feel free to reach out at: alexanderkojimakiyama@gmail.com
 Enjoy!
+
+I am trying to connect to this DB via JDBC now.
