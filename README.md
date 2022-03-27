@@ -6,7 +6,7 @@ If you have any quetsions, feel free to reach out at: alexanderkojimakiyama@gmai
 Enjoy!
 
 FOR WINDOWS:\
-(Install & Setup MariaDB).\
+(Install & Setup MariaDB.)\
 Enter the following .sql file's query into your MariaDB interface.\
 Click execute query.\
 The query will create a database, table, and populate it with values.\
