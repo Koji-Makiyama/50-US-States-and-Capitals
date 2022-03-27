@@ -5,4 +5,10 @@ I have licensed this as an MIT license, i.e. an open source license.\
 If you have any quetsions, feel free to reach out at: alexanderkojimakiyama@gmail.com\
 Enjoy!
 
-
+FOR WINDOWS:
+(Install & Setup MariaDB).\
+Enter the following .sql file's query into your MariaDB interface.\
+Click execute query.\
+The query will create a database, table, and populate it with values.\
+If you wish to rename the database, table, columns, etc. feel free to edit the .sql query.\
+Enjoy!
